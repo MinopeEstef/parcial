@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_option1"
+        android:title="Agregar prenda"
+        android:icon="@drawable/add" />
+    <item
+        android:id="@+id/menu_option2"
+        android:title="Ver prenda"
+        android:icon="@drawable/list"/>
+    <item
+        android:id="@+id/menu_option3"
+        android:title="Mi carrito"
+        android:icon="@drawable/shopping" />
+</menu>

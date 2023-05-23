@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="size">
+        <item>Seleccione talla</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XS</item>
+    </array>
+
+</resources>
